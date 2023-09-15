@@ -80,8 +80,7 @@ def abajo():
     print(f"Coordenadas del rover: ({pac.xcor()}, {pac.ycor()}), Coordenadas objetivo: ({pac1.xcor()}, {pac1.ycor()})")  # Coordenadas del rover y ArUco
 
 
-# Seleccion de variables
-titulo = "AUTONOMUS NAVIGATION"
+
 
 # Seccion de ventana
 escenario = turtle.Screen()
